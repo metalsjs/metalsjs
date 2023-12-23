@@ -6,5 +6,9 @@
   "main": "./src/index.js",
   "devDependencies": {
     "@metalsjs/cli": "workspace:^"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }

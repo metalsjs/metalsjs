@@ -21,5 +21,9 @@
     "esbuild": "^0.19.5",
     "esbuild-register": "^3.5.0",
     "typescript": "^5.2.2"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }
