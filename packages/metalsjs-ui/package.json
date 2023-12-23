@@ -1,0 +1,10 @@
+{
+  "name": "@metalsjs/ui",
+  "version": "0.0.1",
+  "description": "基于vue3 + typescript 的可配置化的 UI 组件库",
+  "keywords": [],
+  "main": "./src/index.js",
+  "devDependencies": {
+    "@metalsjs/cli": "workspace:^"
+  }
+}

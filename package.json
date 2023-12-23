@@ -1,0 +1,9 @@
+{
+  "name": "metalsjs",
+  "version": "0.0.1",
+  "description": "web应用metalsjs全家桶",
+  "private": true,
+  "keywords": [],
+  "author": "fengwang",
+  "license": "MIT"
+}
